@@ -1,5 +1,3 @@
 togCap
 ======
-
-h1
-Time manager that syncs with Capsule
+<h2>Time manager that syncs with Capsule
